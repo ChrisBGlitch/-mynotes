@@ -24,7 +24,8 @@
 _config.yml: title: Demo notes repo
 theme: jekyll-theme-midnight
 
-comp1238.md: ## Week 1 - History
+comp1238.md: 
+## Week 1 - History
 - ~5,000 years ago: Clay tablets in Mesopotamia (e.g., Uruk).
 - Cuneiform: Wedge-shaped marks pressed into clay.
 - System using two types of wedges, one means 10 the other means 1.
