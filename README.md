@@ -21,7 +21,7 @@
 - **Friday**
   - 10am - [COMP1151 - IT Essentials](https://learn.georgebrown.ca/d2l/home/451457)
 
-_config.uml: title: Demo notes repo
+_config.yml: title: Demo notes repo
 theme: jekyll-theme-midnight
 
 comp1238.md: ## Week 1 - History
